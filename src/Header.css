@@ -1,0 +1,29 @@
+header{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 1rem;
+    flex-direction: column;
+    height: 80vh;
+}
+
+header h1{
+    margin: 0;
+    
+}
+
+header p{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+header .btn{
+    background-color: #1d809f;
+    border-color: #1d809f;
+    color: #fff;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-weight: 700;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+}
